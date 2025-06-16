@@ -13,5 +13,5 @@ public class MyClass {
 		return this.name;
 	}
 	
-	private String address;
+	private String address, lastName;
 }
