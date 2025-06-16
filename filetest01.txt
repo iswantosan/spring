@@ -6,6 +6,9 @@ public class MyClass {
 		this.name = name;
 	}
 	
+	public int age;
+	// nambahin usia
+
 	public String getName() {
 		return this.name;
 	}
