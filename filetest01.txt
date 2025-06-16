@@ -8,6 +8,7 @@ public class MyClass {
 	
 	public int age;
 	// nambahin usia / umur
+	// tambah komnetar
 
 	public String getName() {
 		return this.name;
