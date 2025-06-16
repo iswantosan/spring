@@ -9,4 +9,6 @@ public class MyClass {
 	public String getName() {
 		return this.name;
 	}
+	
+	private String address;
 }
