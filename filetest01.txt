@@ -7,7 +7,7 @@ public class MyClass {
 	}
 	
 	public int age;
-	// nambahin usia
+	// nambahin usia / umur
 
 	public String getName() {
 		return this.name;
