@@ -2,7 +2,7 @@ public class MyClass {
     // test awal
 	private String name;
 	
-	pubiic void setName(String name) {
+	public void setName(String name) {
 		this.name = name;
 	}
 }
